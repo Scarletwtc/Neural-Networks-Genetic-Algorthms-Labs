@@ -1,0 +1,6 @@
+regression classification are supervised
+
+
+clustering we group data without output 
+
+csv is comma separated value 
